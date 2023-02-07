@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.227f8589.css",
+    "main.js": "/react-website/static/js/main.8e28898f.js",
+    "static/js/787.71e672d5.chunk.js": "/react-website/static/js/787.71e672d5.chunk.js",
+    "static/media/aboutPage.jpg": "/react-website/static/media/aboutPage.c9ddc15946220fe761d3.jpg",
+    "static/media/pexels-scott-webb-1048035.jpg": "/react-website/static/media/pexels-scott-webb-1048035.984caae9624d930db774.jpg",
+    "static/media/dragon tree.jpg": "/react-website/static/media/dragon tree.af711a92d740ac34dffd.jpg",
+    "static/media/bonsai.jpg": "/react-website/static/media/bonsai.019dc2bb03c9b3d2ff76.jpg",
+    "static/media/croton.jpg": "/react-website/static/media/croton.60d81923b4cc370b4363.jpg",
+    "static/media/succulent.jpg": "/react-website/static/media/succulent.6e2e88ad0ab2bb60cf42.jpg",
+    "static/media/signIn.jpg": "/react-website/static/media/signIn.69451d38df7ea3f563dc.jpg",
+    "static/media/creeper.jpeg": "/react-website/static/media/creeper.d6bf2879eb99d29a7e21.jpeg",
+    "static/media/flower.webp": "/react-website/static/media/flower.d2a564215bcf6f7c7b12.webp",
+    "static/media/aloe vera.webp": "/react-website/static/media/aloe vera.bb03c38e1760e223ab5f.webp",
+    "static/media/cactus.webp": "/react-website/static/media/cactus.d338acbc5bb0921ef77b.webp",
+    "index.html": "/react-website/index.html",
+    "main.227f8589.css.map": "/react-website/static/css/main.227f8589.css.map",
+    "main.8e28898f.js.map": "/react-website/static/js/main.8e28898f.js.map",
+    "787.71e672d5.chunk.js.map": "/react-website/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227f8589.css",
+    "static/js/main.8e28898f.js"
+  ]
+}
