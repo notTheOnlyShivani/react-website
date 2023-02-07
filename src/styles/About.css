@@ -1,0 +1,54 @@
+.about {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.title {
+    margin-bottom: 55px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.about img {
+    position: absolute;
+    left: 150px;
+}
+
+.paragraph {
+   position: absolute;
+   width: 700px;
+  left: 620px;
+  top: 190px;
+  text-align: left;
+  font-size: 16px;
+}
+
+@media screen and (max-width: 900px) {
+    .about img {
+        width: 240px;
+        left: 55px;
+        top: 140px;
+    }
+    
+    .paragraph {
+        font-size: 10px;
+        width: 400px;
+        left: 340px;
+        top: 150px;
+    }
+    }
+
+@media screen and (max-width: 500px) {
+.about img {
+    width: 280px;
+    left: 55px;
+    top: 140px;
+}
+
+.paragraph {
+    font-size: 10px;
+    width: 290px;
+    left: 50px;
+    top: 570px;
+}
+}
+

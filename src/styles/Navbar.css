@@ -1,0 +1,63 @@
+.navbar {
+    height: 50px;
+    background-color: #EDEDED;
+    font-size: 15px;
+}
+
+.leftSide {
+    float: left;
+    color: white;
+    margin-top: 8px;
+    margin-left: 15px;
+}
+
+.rightSide {
+    margin-top: 13px;
+    display: flex;
+    justify-content: right;
+    margin-right: 15px;
+}
+
+.rightSide button {
+    border: none;
+    background-color: #EDEDED;
+    cursor: pointer;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+.hiddenLinks {
+    margin-top: 8px;
+    margin-right: 5px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+}
+
+.hiddenLinks a:hover {
+    border-bottom: 2px solid black;
+}
+
+.navbar #open .hiddenLinks a {
+    text-decoration: none;
+    margin-left: 12px;
+    margin-right: 12px;
+    padding-bottom: 5px;
+    color: black;
+}
+
+.navbar #close .hiddenLinks {
+    display: none;
+}
+
+@media screen and (max-width: 500px) {
+.rightSide button {
+    width: 5px;
+}
+
+.hiddenLinks {
+    font-size: 12px;
+    margin-top: 12px;
+    margin-right: 0;
+}
+}
+

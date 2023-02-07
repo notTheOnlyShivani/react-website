@@ -1,0 +1,90 @@
+.contact img {
+    position: absolute;
+    left: 200px;
+    top: 130px;
+    box-shadow: 10px 15px 29px -20px;
+}
+
+.contactInfo {
+    position: absolute;
+    left: 700px;
+    top: 260px;
+    /* border: 2px solid black; */
+    height: 200px;
+    width: 500px;
+}
+
+#contactForm .input {
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    border-bottom: 2px solid grey;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    margin: 10px;
+    width: 400px;
+}
+
+.contactInfo button {
+    width: 120px;
+    padding: 5px;
+    margin-right: 10px;
+    border-radius: 25px;
+    margin-top: 20px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 14px;
+    border: 2px solid black;
+}
+
+.contactInfo p {
+    color: grey;
+    font-family: 'Titillium Web', sans-serif;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.contactInfo button:hover {
+background-color: black;
+color: #EDEDED;
+cursor: pointer;
+}
+
+.contactInfo p:hover{
+    color: black;
+}
+
+@media screen and (max-width: 900px) {
+    .contact img {
+        width: 400px;
+        left: 70px;
+    }
+
+    .contactInfo {
+        left: 480px;
+        width: 350px;
+    }
+
+    #contactForm .input {
+        border: none;
+        padding: 10px;
+        border-bottom: 2px solid grey;
+        text-align: center;
+        font-family: 'Titillium Web', sans-serif;
+        margin: 10px;
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .contact img {
+        width: 300px;
+        left: 30px;
+        top: 100px;
+    }
+    
+    .contactInfo {
+        left: 10px;
+        top: 550px;
+        width: 350px;
+    }
+}
