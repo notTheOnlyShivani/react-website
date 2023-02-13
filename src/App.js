@@ -12,10 +12,10 @@ function App() {
       <Router>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/products" element={<Products />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/react-website" element={<Home />} />
+        <Route path="/react-website/products" element={<Products />} />
+        <Route path="/react-website/about" element={<About />} />
+        <Route path="/react-website/contact" element={<Contact />} />
       </Routes>
       </Router>
     </div>

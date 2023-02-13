@@ -18,10 +18,10 @@ const toggleNavbar = () => {
         </div>
         <div className="rightSide" id={openLinks ? "open" : "close"}>
           <div className='hiddenLinks'>
-            <Link to="/">HOME</Link>
-            <Link to="/products">PRODUCTS</Link>
-            <Link to="/about">ABOUT</Link>
-            <Link to="/contact">SIGN IN</Link> 
+            <Link to="/react-website">HOME</Link>
+            <Link to="/react-website/products">PRODUCTS</Link>
+            <Link to="/react-website/about">ABOUT</Link>
+            <Link to="/react-website/contact">SIGN IN</Link> 
             </div>
             <button onClick={toggleNavbar}><img src={Menu} width="24px"/></button>
         </div>
