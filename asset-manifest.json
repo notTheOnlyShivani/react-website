@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-website/static/css/main.227f8589.css",
-    "main.js": "/react-website/static/js/main.8e28898f.js",
+    "main.js": "/react-website/static/js/main.41531b0e.js",
     "static/js/787.71e672d5.chunk.js": "/react-website/static/js/787.71e672d5.chunk.js",
     "static/media/aboutPage.jpg": "/react-website/static/media/aboutPage.c9ddc15946220fe761d3.jpg",
     "static/media/pexels-scott-webb-1048035.jpg": "/react-website/static/media/pexels-scott-webb-1048035.984caae9624d930db774.jpg",
@@ -16,11 +16,11 @@
     "static/media/cactus.webp": "/react-website/static/media/cactus.d338acbc5bb0921ef77b.webp",
     "index.html": "/react-website/index.html",
     "main.227f8589.css.map": "/react-website/static/css/main.227f8589.css.map",
-    "main.8e28898f.js.map": "/react-website/static/js/main.8e28898f.js.map",
+    "main.41531b0e.js.map": "/react-website/static/js/main.41531b0e.js.map",
     "787.71e672d5.chunk.js.map": "/react-website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.227f8589.css",
-    "static/js/main.8e28898f.js"
+    "static/js/main.41531b0e.js"
   ]
 }
